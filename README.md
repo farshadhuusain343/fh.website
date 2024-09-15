@@ -1,2 +1,3 @@
-# fh.website
-This is my firsrt Git repository.
+# fh. website
+This is my first Git repository.
+FMH SERVICE
